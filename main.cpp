@@ -2,7 +2,9 @@
 #include <cstdlib>
 #include <ctime>
 
-using namespace std;
+using std::cout;
+using std::cin;
+using std::string;
 
 int main()
 {
